@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1c25b4-66ad-4977-ae4b-250e8139d596" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3EVCpYRPQKoOBK6M5LGmfVNZH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="instruments" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in RaysMusicExchange">
+    <configuration name="All in RaysMusicExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrumSticksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stock" />
+      <option name="MAIN_CLASS_NAME" value="stock.DrumSticksTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="instruments in RaysMusicExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="instruments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="instruments" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stock in RaysMusicExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stock" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in RaysMusicExchange" />
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.stock in RaysMusicExchange" />
+        <item itemvalue="JUnit.instruments in RaysMusicExchange" />
+        <item itemvalue="JUnit.DrumSticksTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1c25b4-66ad-4977-ae4b-250e8139d596" name="Default Changelist" comment="" />
+      <created>1585955898371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585955898371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1586033907445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="172" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586033907445" />
+    <state x="506" y="327" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586028823363">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="506" y="327" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1586028823363" />
+    <state x="97" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586021845793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1586021845793" />
+    <state width="676" height="245" key="GridCell.Tab.0.bottom" timestamp="1586038226314">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="676" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586038226314" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586037010915" />
+    <state width="676" height="245" key="GridCell.Tab.0.center" timestamp="1586038226312">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="676" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586038226312" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586037010914" />
+    <state width="676" height="245" key="GridCell.Tab.0.left" timestamp="1586038226311">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="676" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586038226311" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586037010914" />
+    <state width="676" height="245" key="GridCell.Tab.0.right" timestamp="1586038226313">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="676" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586038226313" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586037010915" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1586036621681">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586036621681" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1586036621680">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586036621680" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1586036621680">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586036621680" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1586036621681">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586036621681" />
+    <state x="24" y="214" width="670" height="659" key="search.everywhere.popup" timestamp="1586034707157">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="24" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586009035486" />
+    <state x="24" y="214" width="670" height="659" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1586034707157" />
+  </component>
+</project>
